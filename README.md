@@ -90,7 +90,4 @@ Ensemble techniques combine multiple models for improved performance. Learn abou
 ## Contribution
 Contributions are welcome! If you'd like to add more content, fix issues, please create a pull request.
 
-## License
-This repository is licensed under the [MIT License](LICENSE).
-
 Thank you for visiting our repository and happy learning!
